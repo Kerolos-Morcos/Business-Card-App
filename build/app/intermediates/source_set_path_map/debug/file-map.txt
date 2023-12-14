@@ -1,0 +1,12 @@
+com.example.business_card_app-jetified-window-1.0.0-beta04-0 C:\Users\Studio\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.business_card_app-jetified-annotation-experimental-1.1.0-1 C:\Users\Studio\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.business_card_app-core-1.6.0-2 C:\Users\Studio\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.business_card_app-jetified-window-java-1.0.0-beta04-3 C:\Users\Studio\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.business_card_app-debug-4 F:\FlutterProjects\business_card_app\android\app\src\debug\res
+com.example.business_card_app-main-5 F:\FlutterProjects\business_card_app\android\app\src\main\res
+com.example.business_card_app-pngs-6 F:\FlutterProjects\business_card_app\build\app\generated\res\pngs\debug
+com.example.business_card_app-resValues-7 F:\FlutterProjects\business_card_app\build\app\generated\res\resValues\debug
+com.example.business_card_app-rs-8 F:\FlutterProjects\business_card_app\build\app\generated\res\rs\debug
+com.example.business_card_app-mergeDebugResources-9 F:\FlutterProjects\business_card_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.business_card_app-mergeDebugResources-10 F:\FlutterProjects\business_card_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.business_card_app-merged_res-11 F:\FlutterProjects\business_card_app\build\app\intermediates\merged_res\debug
