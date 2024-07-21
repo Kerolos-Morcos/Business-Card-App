@@ -1,0 +1,1 @@
+ F:\\FlutterProjects\\business_card_app\\.dart_tool\\flutter_build\\6256cb925c7669e582a205ce6dcd9d2e\\native_assets.yaml: 

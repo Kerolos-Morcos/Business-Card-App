@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 void main() {
   runApp(const BusinessCardApp());
 }
@@ -60,7 +61,7 @@ class BusinessCardApp extends StatelessWidget {
                   ),
                   Container(
                     margin:
-                        const EdgeInsets.symmetric(horizontal: 26, vertical: 7),
+                        const EdgeInsets.symmetric(horizontal: 26, vertical: 10),
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(8),
                       color: Colors.white,
@@ -89,10 +90,10 @@ class BusinessCardApp extends StatelessWidget {
                       ],
                     ),
                   ),
-    
+
                   Padding(
-                    padding:
-                        const EdgeInsets.symmetric(horizontal: 26.0, vertical: 4),
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 26.0, vertical: 8),
                     child: Container(
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(8),
@@ -123,10 +124,10 @@ class BusinessCardApp extends StatelessWidget {
                       ),
                     ),
                   ),
-    
+
                   // This is an abbreviation of a built in widget (ListTile)
                   SizedBox(
-                    height: 76,
+                    height: 78,
                     child: Card(
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(8)),
@@ -148,29 +149,31 @@ class BusinessCardApp extends StatelessWidget {
                       ),
                     ),
                     // End OF Card Widget
-    
+
                     // i used sizedBox to give the card the same height like
                     // other cards , and gave it minVerticalPadding to center
                     // the text after expanding height
                   ),
-    
+
                   // Bonus (Adding A Button)
                   Container(
-                    margin:
-                        const EdgeInsets.only(top: 10),
+                    margin: const EdgeInsets.only(top: 15),
                     child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        backgroundColor: const Color.fromARGB(255, 72, 108, 136),
-                        foregroundColor: Colors.white
-                      ),
+                          backgroundColor:
+                              const Color.fromARGB(255, 72, 108, 136),
+                          foregroundColor: Colors.white),
                       onPressed: () => {},
                       child: const Row(
                         mainAxisSize: MainAxisSize.min,
                         children: [
-                          Text('Continue', style: TextStyle(
-                            fontSize: 23,
-                            fontFamily: 'Pacifico',
-                          ),),
+                          Text(
+                            'Continue',
+                            style: TextStyle(
+                              fontSize: 23,
+                              fontFamily: 'Pacifico',
+                            ),
+                          ),
                           SizedBox(
                             width: 8,
                             height: 55,
