@@ -60,8 +60,8 @@ class BusinessCardApp extends StatelessWidget {
                     height: 8,
                   ),
                   Container(
-                    margin:
-                        const EdgeInsets.symmetric(horizontal: 26, vertical: 10),
+                    margin: const EdgeInsets.symmetric(
+                        horizontal: 26, vertical: 10),
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(8),
                       color: Colors.white,
