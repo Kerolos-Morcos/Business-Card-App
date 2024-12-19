@@ -1,8 +1,8 @@
-#Sun Jul 21 19:18:45 EET 2024
-base.0=F\:\\FlutterProjects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=F\:\\FlutterProjects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=F\:\\FlutterProjects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
-base.3=F\:\\FlutterProjects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+#Thu Dec 19 17:56:02 EET 2024
+base.0=F\:\\FlutterProjects\\1-Level_One_Projects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=F\:\\FlutterProjects\\1-Level_One_Projects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=F\:\\FlutterProjects\\1-Level_One_Projects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=F\:\\FlutterProjects\\1-Level_One_Projects\\business_card_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=14/classes.dex
