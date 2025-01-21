@@ -19,7 +19,7 @@ class BusinessCardApp extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 // mainAxisSize: MainAxisSize.min,
-                children: [
+                children: <Widget>[
                   const Padding(
                     padding: EdgeInsets.only(bottom: 12),
                     child: CircleAvatar(
@@ -102,7 +102,7 @@ class BusinessCardApp extends StatelessWidget {
                       height: 60,
                       child: const Row(
                         // mainAxisSize: MainAxisSize.min,
-                        children: [
+                        children: <Widget>[
                           Padding(
                             padding: EdgeInsets.only(left: 16.0),
                             child: Icon(
@@ -124,7 +124,6 @@ class BusinessCardApp extends StatelessWidget {
                       ),
                     ),
                   ),
-
                   // This is an abbreviation of a built in widget (ListTile)
                   SizedBox(
                     height: 78,
@@ -149,12 +148,10 @@ class BusinessCardApp extends StatelessWidget {
                       ),
                     ),
                     // End OF Card Widget
-
                     // i used sizedBox to give the card the same height like
                     // other cards , and gave it minVerticalPadding to center
                     // the text after expanding height
                   ),
-
                   // Bonus (Adding A Button)
                   Container(
                     margin: const EdgeInsets.only(top: 15),
@@ -166,7 +163,7 @@ class BusinessCardApp extends StatelessWidget {
                       onPressed: () => {},
                       child: const Row(
                         mainAxisSize: MainAxisSize.min,
-                        children: [
+                        children: <Widget>[
                           Text(
                             'Continue',
                             style: TextStyle(
